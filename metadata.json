@@ -1,0 +1,6 @@
+{
+  "name": "To-Do List Manager",
+  "description": "Organize your daily tasks efficiently with a clean, modern, and professional offline-first layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
